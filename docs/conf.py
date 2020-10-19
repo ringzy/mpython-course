@@ -18,10 +18,8 @@ import sphinx_rtd_theme
 
 
 # -- Project information -----------------------------------------------------
-
-project = 'zkb'
-copyright = '2020, Randy'
-author = 'Randy'
+project = '掌控板创意编程'
+author = 'Ring'
 
 
 # -- General configuration ---------------------------------------------------
